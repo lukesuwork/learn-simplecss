@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+p {
+  color: lightpink;
+  text-align: center;
+}
+h1 {
+  color: lightcoral;
+  font-size: 200px;
+  text-align: center;
+  font-family: "Helvetica Neue", serif;
+}
+
+img:hover{
+  background-color: gold;
+}
+
+.bacon {
+  background-color: lightpink;
+
+}
+
+.broco {
+  background-color: lightgreen;
+}
+
+#heading {
+  color: lightcoral;
+}
